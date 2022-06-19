@@ -94,7 +94,7 @@ body.dark-theme {
 }
 
 .change-theme, .change-theme-name {
-  color: #11414B;
+  color: var(--text-color);
 }
 
 .change-theme {
