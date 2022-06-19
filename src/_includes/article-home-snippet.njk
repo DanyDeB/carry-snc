@@ -1,0 +1,11 @@
+<li>
+    <article class="snippet-home">
+    <div class="one">
+        <h3 class="snippet__title-home"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+        <p class="snippet__meta-home"> posté le:  <span>{{ post.date | postDate }}</span> par <span>{{ post.data.author }}</span>.</p>
+        <p class="snippet__body-home"><span>Horaires:</span><br>{{ post.data.description | safe }}</p>
+        <a href="{{ post.url }}" class="btn-home btn--primary-home">Lire la suite</a>
+    </div>
+    <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}" class="snippet__image-home">
+    </article>
+</li>

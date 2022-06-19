@@ -1,0 +1,16 @@
+---
+title: Derniers posts
+layout: 'base-blog.njk'
+---
+<br> <br> 
+<div class="section container">
+    <h1 class="section-title">
+        Derniers articles
+    </h1>
+</div>
+
+<ul role="list" class="articles__list flow">
+    {%- for post in collections.post | reverse -%}
+        {% include 'article-snippet.njk' %}
+    {%- endfor -%}
+</ul>
