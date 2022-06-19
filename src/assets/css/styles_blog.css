@@ -84,6 +84,7 @@ body {
     position: relative;
     bottom: 0px;
     border-radius: 5px;
+    background-color: var(--title-color);
 }
 .article-snippet__link:hover,
 .article-snippet__link:focus {
