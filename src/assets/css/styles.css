@@ -33,7 +33,6 @@
   --normal-font-size: .938rem;
   --small-font-size: .813rem;
   --smaller-font-size: .75rem;
-  --blog-card-background: hsl(240, 26%, 95%);
 
   /*========== Font weight ==========*/
   --font-medium: 500;
@@ -80,7 +79,6 @@ body.dark-theme {
   --body-color: hsl(var(--hue-color), 29%, 12%);
   --scroll-bar-color: hsl(var(--hue-color), 12%, 48%);
   --scroll-thumb-color: hsl(var(--hue-color), 12%, 36%);
-  --blog-card-background: hsl(190, 29%, 16%);
 }
 
 /*========== Button Dark/Light ==========*/
