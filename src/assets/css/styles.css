@@ -325,6 +325,10 @@ input {
   color: var(--white-color);
 }
 
+.home__social-link2{
+
+  color:#FFFFFF;
+}
 .home__data-subtitle {
   display: block;
   font-weight: var(--font-semi-bold);
@@ -1538,6 +1542,14 @@ input {
     margin-bottom: 3rem;
     column-gap: 2.5rem;
     color:white;
+  }
+
+  .home__social2 {
+    flex-direction: row;
+    align-self: flex-end;
+    margin-bottom: 3rem;
+    column-gap: 2.5rem;
+    color:#FFFFFF;
   }
   .home__info {
     bottom: 3rem;
