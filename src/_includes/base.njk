@@ -11,14 +11,14 @@
     <link rel="stylesheet" href="/assets/css/swiper-bundle.min.css">
     <!--=============== CSS ===============-->
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>{{ title }}</title>
 </head>
 <body>
     {% include 'header.njk' %}
     {{ content | safe }}
     {% include 'footer.njk' %}
-    
-<!--     
+      
     <script>
         if (window.netlifyIdentity) {
           window.netlifyIdentity.on("init", user => {
@@ -30,7 +30,6 @@
           });
         }
     </script>
--->
 
 <!--========== SCROLL UP ==========-->
   <a href="#" class="scrollup" id="scroll-up">
