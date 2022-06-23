@@ -622,9 +622,14 @@ input {
 }
 
 
+.BoutonImage{
+  resize: 20%;
+  size-adjust: 20%;
+  padding-right: 35%;
+  padding-left: 35%;
+}
 
-
-
+.
 
 
 
@@ -1422,6 +1427,108 @@ input {
   background-color: var(--text-color-light);
 }
 
+
+
+/*=============== CARD ===============*/
+
+.centerediv{
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+/* DL B
+
+
+/* THE MAINCONTAINER HOLDS EVERYTHING */
+.maincontainer{
+  position:relative;
+  display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(2, 1fr);
+grid-column-gap: 5%;
+grid-row-gap: 5%;
+  height: 512px;
+  background: none;
+  top: 50%;
+  
+
+}
+
+/* THE CARD HOLDS THE FRONT AND BACK FACES */
+.thecard{
+  position: relative;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  transform-style: preserve-3d;
+  transition: all 0.8s ease;
+}
+
+/* THE PSUEDO CLASS CONTROLS THE FLIP ON MOUSEOVER AND MOUSEOUT */
+.thecard:hover{
+  transform: rotateY(180deg);
+}
+
+/* THE FRONT FACE OF THE CARD, WHICH SHOWS BY DEFAULT */
+ .thefront{
+  position: absolute;
+  text-align: center;
+  align-items: center;
+  align-content;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  backface-visibility: hidden;
+  overflow: hidden;
+  background: rgb(28, 194, 200);
+  color: #000;
+}
+
+/* THE BACK FACE OF THE CARD, WHICH SHOWS ON MOUSEOVER */
+.theback{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  backface-visibility: hidden;
+  overflow: hidden;
+  background: var(--first-color);
+  color:white;
+  text-align: center;
+  transform: rotateY(180deg);
+}
+
+
+/*This block (starts here) is merely styling for the flip card, and is NOT an essential part of the flip code */
+.thefront h1, .theback h1{
+  padding-top:10%;
+  padding-bottom: 20px; 
+  margin-left: 5%;
+  margin-right: 5%;
+  font-weight: bold;
+  font-size: var(--h3-font-size);
+  
+  text-align: center;
+}
+
+.theback h1{
+  color:hsl(var(--hue-color), 12%, 75%);
+}
+.thefront p, .theback p{
+  font-weight: normal;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: var(--smaller-font-size);
+  text-align: center;
+}
+
+
 /*=============== MEDIA QUERIES ===============*/
 /* For small devices */
 @media screen and (min-width: 340px) {
@@ -1469,6 +1576,10 @@ input {
   .formation{
     padding-left: 10%;
     padding-right: 10%;
+  }
+  .centerediv{
+    margin-right: 15%;
+    margin-left: 15%;
   }
 }
 
@@ -1598,7 +1709,10 @@ input {
     flex-direction: row;
     justify-content: space-between;
   }
-  
+  .centerediv{
+    margin-right: 25%;
+    margin-left: 25%;
+  }
 }
 
 /* For large devices */
@@ -1671,6 +1785,10 @@ input {
     padding-left: 15%;
     padding-right: 15%;
   }
+  .centerediv{
+    margin-right: 30%;
+    margin-left: 30%;
+  }
 }
 
 @media screen and (min-width: 1200px) {
@@ -1680,6 +1798,10 @@ input {
   .formation{
     padding-left: 15%;
     padding-right: 15%;
+  }
+  .centerediv{
+    margin-right: 36%;
+    margin-left: 36%;
   }
 }
 
