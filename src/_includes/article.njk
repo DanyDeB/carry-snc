@@ -1,17 +1,24 @@
 ---
-layout: 'base.njk'
+layout: 'base-blog.njk'
 ---
 
 <article class="main-article">
-    <div class="container container--narrow flow">
+  <div class="container">
+    <div class="article-header">
+      <div class="article-meta">
         <h1 class="article-title">
-            {{ title }}
-          </h1>
-          <figure class="main-article__figure">
-            <img src="{{ image }}" alt="{{ imageAlt }}">
-            <figcaption>
-              {{ imageAlt }}
-            </figcaption>
-          </figure>
+          {{ title }}
+        </h1>
+
+        <p class="article-meta">Ecrit par <span>{{ author }}</span> le <span>{{ date | postDate }}</span></p>
+        <p class="article-description">{{ description }}</p>
+      </div>
+      <div class="article-image">
+        <img src="{{ image }}" alt="{{ imageAlt }}">
+      </div>
     </div>
+
+    {{ content | safe }}
+  </div>
+
 </article>

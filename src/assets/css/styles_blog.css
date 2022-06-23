@@ -40,7 +40,7 @@ body {
     border-bottom-right-radius: 5px;
 }
 
-
+/*--------- SNIPPETS --------*/
 
 /* DIV OF META */
 .article-snippet__data {
@@ -93,4 +93,32 @@ body {
 .article-snippet__link:focus {
     text-shadow: 0px 0px 6px var(--body-color);
     background-color: var(--title-color-hover);
+}
+
+/* -------- ARTICLE PAGE -------- */
+
+.main-article {
+    margin-top: 5em;
+}
+
+.article-header {
+    display: flex;
+    
+}
+
+.article-header .article-image {
+    right: 0px;
+    width: 50%;
+    background-color: blue;
+}
+
+.article-header .article-image img{
+    right: 0;
+    max-width: 10em;
+    border-radius: 10px;
+}
+
+.article-meta {
+    width: 50%;
+    background-color: red;
 }
