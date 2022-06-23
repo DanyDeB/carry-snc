@@ -87,13 +87,14 @@ const sr = ScrollReveal({
 })
 
 
-sr.reveal(`.home__data, .home__social-link, .home__info,
+sr.reveal(`.home__data, .home__social-link, .home__social-link2, .home__info,
            .discover__container,
            .experience__data, .experience__overlay,
            .place__card,
            .sponsor__content,
            .footer__data, .footer__rights, .legal__data,
-            .section__title, .animationtext, .fishing__container, .contact__data,  .parentca, .parentca4, .parentca1, .alinea` ,{
+            .section__title, .animationtext, .fishing__container, .maincontainer, 
+            .contact__data,  .parentca, .parentca4, .parentca1, .alinea` ,{
     origin: 'top',
     interval: 100,
 })
