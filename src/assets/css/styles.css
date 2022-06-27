@@ -236,12 +236,11 @@ input {
 @media screen and (max-width: 767px) {
   .nav__menu {
     position: fixed;
-    background-color: var(--first-color);
+    background-color: var(--blog-color);
     top: 0;
     right: -100%;
     width: 70%;
     height: 100%;
-    border: red solid 1px;
     box-shadow: -1px 0 4px rgba(14, 55, 63, 0.15);
     padding: 3rem;
     transition: .4s;
@@ -254,11 +253,12 @@ input {
   display: flex;
   flex-direction: column;
   row-gap: 2.5rem;
-  color: var(--first-color);
+  color: #11414B;
 }
 
 .nav__link {
-  color:#11414B;
+  color:var(--first-color);
+  transition: .2s;
   font-weight: var(--font-semi-bold);
   text-transform: uppercase;
 }
@@ -283,7 +283,7 @@ input {
 
 /* Change background header */
 .scroll-header {
-  background-color: var(--body-color);
+  background-color: var(--blog-color);
   box-shadow: 0 0 4px rgba(14, 55, 63, 0.15);
 }
 
