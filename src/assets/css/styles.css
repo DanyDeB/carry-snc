@@ -236,11 +236,12 @@ input {
 @media screen and (max-width: 767px) {
   .nav__menu {
     position: fixed;
-    background-color: #11414B;
+    background-color: var(--first-color);
     top: 0;
     right: -100%;
     width: 70%;
     height: 100%;
+    border: red solid 1px;
     box-shadow: -1px 0 4px rgba(14, 55, 63, 0.15);
     padding: 3rem;
     transition: .4s;
@@ -253,7 +254,7 @@ input {
   display: flex;
   flex-direction: column;
   row-gap: 2.5rem;
-  color: #11414B;
+  color: var(--first-color);
 }
 
 .nav__link {
