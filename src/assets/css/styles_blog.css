@@ -12,8 +12,9 @@ body {
 .article-snippet {
     display: flex;
     margin: 5em;
-    width: var(--card-max-width);
-    height: var(--card-height);
+    max-width: 90%;
+    background-color: blue;
+    height: 80%;
 }
 
 .section-title {
@@ -26,16 +27,14 @@ body {
 .article-snippet__image {
     display: flex;
     justify-content: left;
-    min-width: 0em;
-    max-width: 30em;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    /* background-color: red; */
 }
 
 .article-snippet__image img{
     display: flex;
-    max-height: var(--card-height);
-    max-width: calc(var(--card-max-width) / 2);
+    width: 100%;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
@@ -49,7 +48,8 @@ body {
     justify-content: space-between;
     padding-top: 3em;
     padding: 1em;
-    width: calc(var(--card-max-width) / 2);
+    width: 50%;
+    height: 100%;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     background-color: var(--blog-color);
