@@ -115,6 +115,7 @@ body {
 }
 
 .article-header__data {
+    background-color: green;
 }
 
 .article-header__title {
