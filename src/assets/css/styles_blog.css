@@ -100,8 +100,8 @@ body {
 .article {
     display: flex;
     flex-direction: column;
-    margin-top: 7em;
     margin: 5em;
+    margin-top: 7em;
     width: var(--card-max-width);
     height: 50em;
     border-radius: 5px;
