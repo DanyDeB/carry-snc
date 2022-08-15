@@ -133,8 +133,7 @@ body {
 .article-header__image {
     display: flex;
     justify-content: right;
-    min-width: 0em;
-    max-width: 30em;
+    width: 100%;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     background-color: blue;
