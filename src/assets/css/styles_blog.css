@@ -111,11 +111,9 @@ body {
     display: flex;
     max-height: var(--card-height);
     width: 100%;
-    background-color: red;
 }
 
 .article-header__data {
-    background-color: green;
 }
 
 .article-header__title {
@@ -137,7 +135,6 @@ body {
     width: 100%;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    background-color: blue;
 }
 
 .article-header__image img{
