@@ -136,6 +136,7 @@ body {
     max-width: 30em;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    background-color: blue;
 }
 
 .article-header__image img{
