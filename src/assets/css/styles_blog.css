@@ -109,7 +109,7 @@ body {
 
 .article-header {
     display: flex;
-    height: var(--card-height);
+    max-height: var(--card-height);
     width: 100%;
     background-color: red;
 }
@@ -133,6 +133,7 @@ body {
 .article-header__image {
     display: flex;
     justify-content: right;
+    max-height: var(--card-height);
     width: 100%;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
