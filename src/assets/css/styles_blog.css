@@ -103,6 +103,7 @@ body {
     margin: 5em;
     width: var(--card-max-width);
     height: var(--card-height);
+    background-color: white;
 }
 
 .article-header {
