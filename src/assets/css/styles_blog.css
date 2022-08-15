@@ -102,7 +102,7 @@ body {
     flex-direction: column;
     margin: 5em;
     width: var(--card-max-width);
-    height: var(--card-height);
+    height: 50em;
     border-radius: 5px;
     background-color: var(--blog-color);
 }
