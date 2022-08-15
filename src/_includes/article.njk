@@ -1,17 +1,20 @@
 ---
-layout: 'base.njk'
+layout: 'base-blog.njk'
 ---
-
-<article class="main-article">
+       
+<div class="article">
+  <article class="article-snippet">
     <div class="container container--narrow flow">
-        <h1 class="article-title">
-            {{ title }}
-          </h1>
-          <figure class="main-article__figure">
-            <img src="{{ image }}" alt="{{ imageAlt }}">
-            <figcaption>
-              {{ imageAlt }}
-            </figcaption>
-          </figure>
+      <h1 class="article-title">
+        {{ title }}
+      </h1>
+      <figure class="main-article__figure">
+        <img src="{{ image }}" alt="{{ imageAlt }}">
+      
+    
     </div>
-</article>
+  </article>
+  <div class="article-content">
+    {{ content | safe }}
+  </div>
+</div>
