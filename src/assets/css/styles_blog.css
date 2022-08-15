@@ -133,6 +133,7 @@ body {
 
 .article-header__description {
     margin-top: 2em;
+    color: var(--text-color);
 }
 
 .article-header__image {
