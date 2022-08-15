@@ -116,6 +116,7 @@ body {
 .article-header__image {
     display: flex;
     justify-content: right;
+    right: 0;
     min-width: 0em;
     max-width: 30em;
     border-top-right-radius: 5px;
