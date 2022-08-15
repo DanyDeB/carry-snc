@@ -109,12 +109,11 @@ body {
 
 .article-header {
     display: flex;
-    width: var(--card-max-width);
     height: var(--card-height);
+    width: 100%;
 }
 
 .article-header__data {
-    width: 100%;
 }
 
 .article-header__title {
