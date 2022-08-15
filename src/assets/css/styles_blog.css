@@ -114,7 +114,7 @@ body {
 }
 
 .article-header__data {
-
+    width: 100%;
 }
 
 .article-header__title {
