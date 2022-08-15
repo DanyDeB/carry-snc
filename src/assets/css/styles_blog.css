@@ -99,6 +99,7 @@ body {
 
 .article {
     display: flex;
+    flex-direction: column;
     margin: 5em;
     width: var(--card-max-width);
     height: var(--card-height);
