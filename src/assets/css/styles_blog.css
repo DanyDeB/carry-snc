@@ -113,6 +113,22 @@ body {
     height: var(--card-height);
 }
 
+.article-header__data {
+
+}
+
+.article-header__title {
+    color: var(--title-color);
+}
+
+.article-header__meta {
+    margin-top: 2em;
+}
+
+.article-header__description {
+
+}
+
 .article-header__image {
     display: flex;
     justify-content: right;
@@ -129,18 +145,6 @@ body {
     max-width: calc(var(--card-max-width) / 2);
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-}
-
-.article-header__title {
-    color: var(--title-color);
-}
-
-.article-header__meta {
-
-}
-
-.article-header__description {
-
 }
 
 .article-content {
