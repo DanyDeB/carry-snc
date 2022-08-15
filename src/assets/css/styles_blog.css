@@ -97,28 +97,6 @@ body {
 
 /* -------- ARTICLE PAGE -------- */
 
-.main-article {
-    margin-top: 5em;
-}
-
-.article-header {
-    display: flex;
-    
-}
-
-.article-header .article-image {
-    width: 50%;
-    right: 0px;
-    background-color: blue;
-}
-
-.article-header .article-image img{
-    right: 0;
-    max-width: 10em;
-    border-radius: 10px;
-}
-
-.article-meta {
-    width: 50%;
-    background-color: red;
+div.article-content {
+    color: red;
 }
