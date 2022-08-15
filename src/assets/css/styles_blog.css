@@ -110,18 +110,15 @@ body {
     display: flex;
     width: var(--card-max-width);
     height: var(--card-height);
-    background-color: red;
 }
 
 .article-header__image {
     display: flex;
-    justify-content: left;
+    justify-content: right;
     min-width: 0em;
     max-width: 30em;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    background-color: blue;
-    width: 2em;
 }
 
 .article-header__image img{
@@ -133,5 +130,4 @@ body {
 }
 
 .article-content {
-    background-color: green;
 }
