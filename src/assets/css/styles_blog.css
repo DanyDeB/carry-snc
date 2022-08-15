@@ -131,6 +131,18 @@ body {
     border-bottom-right-radius: 5px;
 }
 
-.article-content__title {
+.article-header__title {
     color: var(--title-color);
+}
+
+.article-header__meta {
+
+}
+
+.article-header__description {
+
+}
+
+.article-content {
+    
 }
