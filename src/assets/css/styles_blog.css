@@ -97,6 +97,32 @@ body {
 
 /* -------- ARTICLE PAGE -------- */
 
-div.article-content {
-    color: red;
+.article {
+    display: flex;
+    margin: 5em;
+    width: var(--card-max-width);
+    height: var(--card-height);
+}
+
+.article-header {
+    display: flex;
+    width: var(--card-max-width);
+    height: var(--card-height);
+}
+
+.article-header__image {
+    display: flex;
+    justify-content: left;
+    min-width: 0em;
+    max-width: 30em;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.article-header__image img{
+    display: flex;
+    max-height: var(--card-height);
+    max-width: calc(var(--card-max-width) / 2);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
