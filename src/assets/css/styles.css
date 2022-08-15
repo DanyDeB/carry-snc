@@ -22,6 +22,7 @@
   --white-color: #000;
   --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
   --scroll-thumb-color: hsl(var(--hue-color), 12%, 75%);
+  --blog-color: hsl(192, 42%, 95%);
 
   /*========== Font and typography ==========*/
   --body-font: 'Open Sans', sans-serif;
