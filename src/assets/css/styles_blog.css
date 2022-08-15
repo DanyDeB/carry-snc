@@ -121,7 +121,14 @@ body {
 }
 
 .article-header__meta {
+    display: block;
+    margin-left: 0.8em;
     margin-top: 1em;
+    color: var(--text-color-light);
+}
+
+.article-header__meta span {
+    color: var(--text-color-bold);
 }
 
 .article-header__description {
