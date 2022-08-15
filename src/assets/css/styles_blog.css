@@ -126,7 +126,7 @@ body {
 .article-header__meta {
     display: block;
     margin-left: 0.8em;
-    margin-top: 1em;
+    margin-top: 0.5em;
     color: var(--text-color-light);
 }
 
