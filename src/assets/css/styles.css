@@ -680,7 +680,7 @@ input {
 .buttonblog {
   display: inline-block;
   background-color: var(--title-color);
-  padding: 1rem 2rem;
+  padding: 1rem;
   font-weight: var(--font-semi-bold);
   transition: .3s;
   margin-left: 40%;
@@ -1240,7 +1240,21 @@ input {
 .footer__social {
   font-size: 1.25rem;
   color: var(--title-color);
-  margin-right: var(--mb-1-25);
+  margin-right: var(--mb-0-5);
+}
+
+.footer__social2 {
+  font-size: 1.25rem;
+  color: var(--title-color);
+  margin-right: var(--mb-0-75);
+
+}
+
+.positionsided {
+  display: grid;
+  grid-template-columns: repeat(2, 0fr);
+  grid-template-rows: 1;
+  grid-column-gap: 0px;
 }
 
 .footer__subtitle {
