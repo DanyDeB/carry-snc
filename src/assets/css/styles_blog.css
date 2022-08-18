@@ -1,7 +1,7 @@
 @import url('/assets/css/styles.css');
 
 :root {
-    --card-height: 30em;
+    --card-height: 20em;
     --card-max-width: 80em;
 }
 
@@ -109,7 +109,6 @@ body {
 
 .article-header {
     display: flex;
-    max-height: var(--card-height);
     width: 100%;
 }
 
@@ -120,13 +119,14 @@ body {
 
 .article-header__title {
     color: var(--title-color);
+    font-size: 4rem;
 }
 
 .article-header__meta {
     display: block;
     margin-left: 0.8em;
     margin-top: 0.5em;
-    color: var(--text-color-light);
+    color: var(--text-color-dark);
 }
 
 .article-header__meta span {
@@ -135,16 +135,13 @@ body {
 
 .article-header__description {
     margin-top: 2em;
-    color: var(--text-color);
+    color: var(--white);
+    display: none;
 }
 
 .article-header__image {
-    display: flex;
-    justify-content: right;
-    max-height: var(--card-height);
-    width: 100%;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+    height: 0px;
+    display: none;
 }
 
 .article-header__image img{
@@ -159,3 +156,17 @@ body {
     padding-top: 3em;
     padding: 1em;
 }
+
+.article-content>p>img{
+
+    align-self: center;
+    justify-self: center;
+    height: 500px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+}
+
