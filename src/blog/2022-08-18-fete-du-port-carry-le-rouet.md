@@ -22,7 +22,7 @@ En partenariat avec **les usagers du port de l' AUPCR**, **LA SOCIETE NAUTIQUE**
 ## LES PUCES NAUTIQUES
 
 Cette manifestation a pour but de permettre aux plaisanciers, pêcheurs ou simplement personnes attirées par la mer, de vendre des objets ayant un lien avec la mer.
-Des emplacements peuvent être **réservés à l'AUCPR** (tel: 06 89 34 17 99) 
+Des emplacements peuvent être **réservés à l'AUCPR** (tel: 06 89 34 17 99)
 INSTALLATION ENTRE 7h00 ET 7h45            
 
 ### INSCRIPTIONS AVANT LE 8 SEPTEMBRE
