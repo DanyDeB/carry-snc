@@ -10,24 +10,20 @@ imageAlt: Port de Carry
 ---
 La municipalité de Carry nous propose cette année encore de participer à la 
 
-### FETE DU PORT
+## FETE DU PORT
 
-##### Le 10 Septembre de 10h à 18h
+Le 10 Septembre de 10h à 18h.
+De nombreuses animations seront proposées sur et autour du port.
 
-##### De nombreuses animations seront proposées sur et autour du port 
+#### AVIS AUX AMATEURS DE BROCANTE
 
-##### AVIS AUX AMATEURS DE BROCANTE 
-
-##### En partenariat avec  **Les usagers du port de l' AUPCR**, **LA SOCIETE NAUTIQUE** organise pendant la FETE DU PORT ET AU MÊME ENDROIT :
+En partenariat avec **les usagers du port de l' AUPCR**, **LA SOCIETE NAUTIQUE** organise pendant la FÊTE DU PORT ET AU MÊME ENDROIT :
 
 ## LES PUCES NAUTIQUES
 
-##### Cette manifestation a pour but de permettre aux plaisanciers, pêcheurs ou simplement personnes attirées par la mer, de vendre des objets ayant un lien avec la mer.
-
-##### Des emplacements peuvent être **réservés à l'AUCPR** ( tel: 06 89 34 17 99) [
-](snccarry@orange.fr)INSTALLATION ENTRE 7h00 ET 7h45            
-
-
+Cette manifestation a pour but de permettre aux plaisanciers, pêcheurs ou simplement personnes attirées par la mer, de vendre des objets ayant un lien avec la mer.
+Des emplacements peuvent être **réservés à l'AUCPR** (tel: 06 89 34 17 99) 
+INSTALLATION ENTRE 7h00 ET 7h45            
 
 ### INSCRIPTIONS AVANT LE 8 SEPTEMBRE
 
