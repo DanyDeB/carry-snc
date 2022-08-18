@@ -5,6 +5,7 @@ author: Francis FAURE
 date: 2022-08-18T08:56:19.069Z
 tags:
   - post
+  - featured
 image: /assets/blog/carry-le-rouet_20110709_01.jpg
 imageAlt: Port de Carry
 ---
