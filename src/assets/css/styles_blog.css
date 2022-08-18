@@ -170,3 +170,8 @@ body {
     flex-direction: column;
 }
 
+.article-content>h1,h2,h3,h4{
+    padding-top:1rem;
+    padding-bottom:1rem;
+    text-align: center;
+}
