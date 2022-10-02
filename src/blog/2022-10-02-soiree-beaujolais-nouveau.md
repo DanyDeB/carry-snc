@@ -27,3 +27,5 @@ imageAlt: azea
 \- CAFE
 
 **le tout arrosé (avec modération bien sur!) du Beaujolais Nouveau**
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/soiree-beaujolais-nouveau/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
