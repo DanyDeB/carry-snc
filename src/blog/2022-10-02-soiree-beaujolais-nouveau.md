@@ -5,7 +5,7 @@ author: Francis FAURE
 date: 2022-10-02T17:48:31.728Z
 tags:
   - post
-image: /assets/blog/carry-le-rouet_20110709_01.jpg
+image: /assets/blog/bdb9355f-3ba8-4756-8576-7667b82940d2.jpeg
 imageAlt: azea
 ---
 ## **SALLE DU GRAND BLEU**
