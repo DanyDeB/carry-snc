@@ -43,6 +43,6 @@ P﻿anisses - Calamars - Beignets de Crabe
 
 ##### B﻿OISSONS : Vins rouge et Blanc COTE DU RHONE ET COTEAUX D'AIX
 
-###### E﻿AUX PLATE ET PETILLANTE 
+###### E﻿AUX PLATE ET PETILLANTE
 
-###### <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/soiree-de-gala-snc/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>***\*﻿ Pour les allergiques aux Fruits de mer  Salade Tomates Burrata ou Charcuterie***
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/soiree-de-gala-snc/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
