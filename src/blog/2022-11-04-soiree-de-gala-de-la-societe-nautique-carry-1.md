@@ -1,12 +1,12 @@
 ---
-title: SOIREE DE GALA DE LA SOCIETE NAUTIQUE CARRY
+title: SOIREE DANSANTE  DE GALA DE LA SOCIETE NAUTIQUE CARRY
 description: SALLE DU GRAND BLEU - Dîner "chic" avec orchestre réservé aux
   adhérents SNC et à leurs invités
 author: Conseil Administration de la SNC
 date: 2022-11-04T19:49:26.059Z
 tags:
   - post
-image: /assets/blog/bdb9355f-3ba8-4756-8576-7667b82940d2.jpeg
+image: /assets/blog/634ca682-9909-46c8-b84b-f9c26ce0c45d.jpeg
 imageAlt: Salle du Grand Bleu Le Rouet Plage
 ---
 # M﻿ENU
@@ -44,5 +44,7 @@ P﻿anisses - Calamars - Beignets de Crabe
 ##### B﻿OISSONS : Vins rouge et Blanc COTE DU RHONE ET COTEAUX D'AIX
 
 ###### E﻿AUX PLATE ET PETILLANTE
+
+**O﻿RCHESTRE MARCO ET WILLY**
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/soiree-de-gala-snc/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
