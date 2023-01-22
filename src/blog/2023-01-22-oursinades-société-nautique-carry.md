@@ -6,7 +6,7 @@ date: 2023-01-22T19:18:49.701Z
 tags:
   - post
 image: /assets/blog/img_2451.jpeg
-imageAlt: OURSINADE DE CARRY
+imageAlt: OURSINADES DE CARRY
 ---
 ## ** *F﻿ÊTE DE L' OURSIN ET DES FRUITS DE MER.***
 
