@@ -2,7 +2,7 @@
 title: OURSINADES SOCIÉTÉ NAUTIQUE CARRY
 description: FÊTE DE L'OURSIN ET DES COQUILLAGES
 author: Francis FAURE
-date: 2023-01-23T07:44:06.298Z
+date: 2023-01-24T15:01:42.317Z
 tags:
   - post
 image: /assets/blog/img_2451.jpeg
