@@ -1,5 +1,5 @@
 ---
-title: ECOLE DE PÊCHE EN MER ENFANTS
+title: ECOLE DE PÊCHE EN MER ENFANTS JUILLET 2023
 description: Apprendre à Pêcher en Mer avec des moniteurs diplômés
 author: SNC Carry
 date: 2023-05-01T06:42:09.319Z
