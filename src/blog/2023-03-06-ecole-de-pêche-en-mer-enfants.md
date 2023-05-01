@@ -19,3 +19,5 @@ Pour les enfants de 8 à 14 ans pour une initiation à la Pêche en Mer
 #### **Ecole Agréée par la Fédération Française des Pêcheurs en Mer**  FFPM (N° 713224)
 
 Nécessite le brevet de natation TRITON (25 mètres)
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/ecole-de-peche-enfants-juillet-2023/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
