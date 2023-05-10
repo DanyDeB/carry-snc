@@ -82,7 +82,7 @@ window.addEventListener('scroll', scrollActive)
 /*==================== SCROLL REVEAL ANIMATION ====================*/
 const sr = ScrollReveal({
     distance: '60px',
-    duration: 2800,
+    duration: 1200,
     // reset: true,
 })
 
@@ -94,7 +94,7 @@ sr.reveal(`.home__data, .home__social-link, .home__social-link2, .home__info,
            .sponsor__content,
            .footer__data, .footer__rights, .legal__data,
             .section__title, .animationtext, .fishing__container, .maincontainer, 
-            .contact__data,  .parentca, .parentca4, .parentca1, .alinea` ,{
+            .contact__data,  .parentca, .parentca4, .parentca1, .alinea, iframe` ,{
     origin: 'top',
     interval: 100,
 })
