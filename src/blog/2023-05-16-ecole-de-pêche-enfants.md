@@ -1,6 +1,6 @@
 ---
-title: ECOLE DE PÊCHE ENFANTS
-description: STAGE DE PÊCHE EN MER POUR ENFANTS DE 8 A 14 ANS
+title: ECOLE DE PÊCHE ENFANTS AOUT 2023
+description: DU 21 AU 25 AOÜT 2023  STAGE DE PÊCHE EN MER POUR ENFANTS DE 8 A 14 ANS
 author: Conseil Administration de la SNC
 date: 2023-05-15T13:21:26.700Z
 tags:
