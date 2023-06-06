@@ -31,3 +31,5 @@ P﻿our la Saint Pierre la traditionnelle Bénédiction des Bateaux est accompag
 **D﻿ESSERT.           : Framboisier du Chef**
 
 **C﻿afé - liqueur de Verveine - Eaux plates et Pétillantes - Vins de Provence**
+
+https://www.helloasso.com/associations/societe-nautique-carry/evenements/diner-dansant-benediction-des-bateaux
