@@ -33,3 +33,5 @@ P﻿our la Saint Pierre la traditionnelle Bénédiction des Bateaux est accompag
 **C﻿afé - liqueur de Verveine - Eaux plates et Pétillantes - Vins de Provence**
 
 https://www.helloasso.com/associations/societe-nautique-carry/evenements/diner-dansant-benediction-des-bateaux
+
+https://www.helloasso.com/associations/societe-nautique-carry/evenements/diner-dansant-benediction-des-bateaux
