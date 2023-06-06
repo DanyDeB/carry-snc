@@ -16,7 +16,7 @@ P﻿our la Saint Pierre la traditionnelle Bénédiction des Bateaux est accompag
 
 #### T﻿HEATRE DE VERDURE DE CARRY LE ROUET
 
-**M﻿ENU :**https://www.helloasso.com/associations/societe-nautique-carry/evenements/diner-dansant-benediction-des-bateaux 
+**M﻿ENU :**
 
 **APERITIF:** Soupe Champenoise - Pastis - Whisky - Softs - Jus de Fruits  etc
 
@@ -32,6 +32,4 @@ P﻿our la Saint Pierre la traditionnelle Bénédiction des Bateaux est accompag
 
 **C﻿afé - liqueur de Verveine - Eaux plates et Pétillantes - Vins de Provence**
 
-https://www.helloasso.com/associations/societe-nautique-carry/evenements/diner-dansant-benediction-des-bateaux
-
-https://www.helloasso.com/associations/societe-nautique-carry/evenements/diner-dansant-benediction-des-bateaux
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/diner-dansant-benediction-des-bateaux/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
