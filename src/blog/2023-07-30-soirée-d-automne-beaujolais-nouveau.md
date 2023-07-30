@@ -14,4 +14,4 @@ L﻿'arrivée du Beaujolais Nouveau est un prétexte à la fête sur une grande 
 
 C﻿'est l'occasion d'échanger sur nos futurs objectifs nos envies nos souhaits et de resserrer les rangs de notre dynamique Société Nautique
 
-L﻿a magnifique salle du GRAND BLEU nous accueille face à la Grande Bleue et cette année nous vous concoctons une superbe paella aux Fruits de mer après un apéritif comme seule "La Nautique" sait le servir et arrosée du fameux Beaujolais Nouveau qui sera libéré le 3ème Jeudi de Novembre comme le veut la tradition..... et la règlementation !!
+L﻿a magnifique salle du GRAND BLEU nous accueille face à la Grande Bleue et cette année nous vous concoctons une superbe paella aux Fruits de mer après un apéritif comme seule "La Nautique" sait le servir et arrosée du fameux Beaujolais Nouveau qui sera libéré le 3ème Jeudi de Novembre comme le veut la tradition..... et la règlementation !<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/soiree-d-automne-beaujolais-nouveau/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
