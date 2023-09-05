@@ -1,6 +1,8 @@
 ---
 title: SOIRÉE D' AUTOMNE " BEAUJOLAIS NOUVEAU "
-description: DINER AMICAL A L OCCASION DE L'ARRIVEE DU BEAUJOLAIS NOUVEAU
+description: "DINER AMICAL A L OCCASION DE L'ARRIVEE DU BEAUJOLAIS
+  NOUVEAU:  1ère Partie: APPERITIF  2ème Partie : PAELLA aux fruits de Mer3eme
+  partie : FROMAGE . 4ème partie Tarte au Citrons ou Tiramisu"
 author: snc
 date: 2023-11-17T13:45:30.879Z
 tags:
