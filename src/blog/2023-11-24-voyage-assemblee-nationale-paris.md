@@ -15,3 +15,5 @@ Marseille - Paris 1ère Classe billet de groupe Aller et Retour
 Billet de groupe 25 personnes
 
 ### **prix 117 €**
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/boutiques/visite-assemblee-nationale-paris/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
