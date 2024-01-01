@@ -8,16 +8,14 @@ tags:
 image: /assets/blog/oursins-produit-adobestock_140669114.jpg
 imageAlt: LES OURSINS DE CARRY LE ROUET
 ---
-#### **LA SOCIÉTÉ NAUTIQUE CARRY** organise  **LE SAMEDI 17 FÉVRIER 2024** à partir de **MIDI** pour *ses adhérents à jour de cotisations* ainsi que leurs invités sympathisants sa formidable et traditionnelle **OURSINADE** 
+#### **LA SOCIÉTÉ NAUTIQUE CARRY** organise  **LE SAMEDI 17 FÉVRIER 2024** à partir de **MIDI** pour *ses adhérents à jour de cotisations* ainsi que leurs invités sympathisants sa formidable et traditionnelle **OURSINADE**
 
 ##### pour 35€ par personne pour les Adhérents et 40€ pour les invités:
 
 #### APERITIFS - SOFTS - Eaux et AMUSE-BOUCHES
 
-#### 
 OURSINS - HUITRES - BULOTS - MOULES - SAUMON FUMÉ - GAMBAS - 
 
 #### FROMAGE TARTES AUX POMMES - CAFÉ
 
-#### 
-Vins BLANC ROUGE ET ROSÉ DE LA RÉGION ET EAUX
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/formidable-oursinade-de-la-nautique-carry/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>Vins BLANC ROUGE ET ROSÉ DE LA RÉGION ET EAUX
