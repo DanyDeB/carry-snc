@@ -19,3 +19,5 @@ imageAlt: ChEZ FRANÇOISE
 > Café 
 >
 > vins
+>
+> <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/boutiques/voyage-assemblee-nationale/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
