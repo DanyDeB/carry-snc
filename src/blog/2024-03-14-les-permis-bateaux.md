@@ -19,3 +19,5 @@ Nous sommes à votre disposition les Mercredis et Samedis de 9h à 12h à la
 SOCIÉTÉ NAUTIQUE CARRY LE ROUET
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/formations-aux-permis-plaisance/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/formations-aux-permis-plaisance/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
