@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1"
+    "@11ty/eleventy": "^1.0.2"
   },
   "bugs": {
     "url": "https://github.com/DanyDeB/snc_final/issues"
