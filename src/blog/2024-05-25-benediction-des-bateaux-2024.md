@@ -15,4 +15,6 @@ Seules les personnes inscritent seront autorisées à embarquer afin de respecte
 
 Un aperitif sera offert par la Mairie de Carry le Rouet et la Societé Nautique au debarquement de l'Albatros.
 
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/societe-nautique-carry/evenements/diner-benediction-des-bateaux/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+
 https://www.helloasso.com/associations/societe-nautique-carry/evenements/diner-benediction-des-bateaux
