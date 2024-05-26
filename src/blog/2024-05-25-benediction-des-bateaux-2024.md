@@ -14,3 +14,5 @@ Le rendez-vous est fixé à partir de 10H 30 quai d'embarquement FOUQUE,sur rese
 Seules les personnes inscritent seront autorisées à embarquer afin de respecter la jauge de securité imposée.
 
 Un aperitif sera offert par la Mairie de Carry le Rouet et la Societé Nautique au debarquement de l'Albatros.
+
+https://www.helloasso.com/associations/societe-nautique-carry/evenements/diner-benediction-des-bateaux
