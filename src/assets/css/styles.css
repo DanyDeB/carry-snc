@@ -631,8 +631,6 @@ input {
   padding-left: 37%;
 }
 
-.
-
 
 
 /*=============== BLOGFAKE ===============*/
@@ -1242,20 +1240,40 @@ input {
 
 /*=============== SPONSORS ===============*/
 .sponsor__container {
-  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  display: grid;
+  grid-template-columns: 1fr;
   justify-items: center;
-  row-gap: 3.5rem;
 }
 
-.sponsor__content:hover .sponsor__img {
-  filter: invert(0.5);
+.sponsor__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
+/* La grille contenant les logos */
+.sponsor__logos {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+/* Les images de logo */
 .sponsor__img {
   width: 150px;
-  filter: invert(0.7);
-  transition: var(--img-transition);
+  height: auto;
+  transition: transform 0.3s ease;
 }
+
+/* Zoom au survol */
+.sponsor__img:hover {
+  transform: scale(1.05);
+}
+
+
+
 
 
 /*=============== LEGAL ===============*/
@@ -1601,7 +1619,6 @@ grid-row-gap: 5%;
   position: absolute;
   text-align: center;
   align-items: center;
-  align-content;
   width: 100%;
   height: 100%;
   border-radius: 10px;
